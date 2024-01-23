@@ -4,3 +4,5 @@ I created a data warehouse in Postgres (staging and core layers) and used KNIME 
 
 For data exploration I used MySQL to explore data and generated insights that would answer the business task, using joins, aggregate functions, temporary tables, CASE statements, subqueries, windows functions. 
 For data visualization, creating a dashboard with bar charts, pie charts, heat maps and calculated fields.
+
+My inspiration for this project was the dataset I got from my final project for the "Google Data Analytics Professional Certificate" in Corsera and the knowledge I gained after the course "Datawarehouse - The Ultimate Guide" by Nikolai Schuler.
