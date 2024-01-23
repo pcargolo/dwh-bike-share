@@ -1,4 +1,5 @@
 # datawarehouse-bike-share
+## Open the file named Data modeling and ETL in KNIME and Postgre.pptx
 In this project I designed a dimensional data model based on data in several CSV files containing data from a fictional Bike Share company in Chicago
 I created a data warehouse in Postgres (staging and core layers) and used KNIME Analytics Platform for data cleaning and manipulation and for loading my dimensional and fact tables into Postgres (ETL/Data Pipeline);
 
